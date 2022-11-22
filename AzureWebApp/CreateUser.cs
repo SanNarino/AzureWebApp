@@ -4,18 +4,18 @@ namespace AzureWebApp;
 
 public class CreateUser{
     //method to create user with username
-    public void CreateUser(string username){
+    public void createUser(string username){
         //code to create user
     
     }
 
-    public void EditUser(string username){  
+    public void editUser(string username){  
         //code to edit user
     
     }
 
     //method to delete user from snowflake database
-    public void DeleteUser(string username){
+    public void deleteUser(string username){
         //code to delete user
     }
 
